@@ -181,13 +181,6 @@ em {
   color: #fd3a73;
 }
 
-input {
-  /* text-decoration: none;
-  border: none;
-  height: 0;
-  width: 0; */
-}
-
 /* Media queries */
 
 @media (max-width: 1070px) {
