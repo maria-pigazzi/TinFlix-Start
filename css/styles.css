@@ -160,6 +160,34 @@ em {
   padding: 3% 0 1%;
 }
 
+#footer i {
+  color: black;
+}
+
+#footer i:hover {
+  color: #fd3a73;
+}
+
+/* Contact form */
+
+.contact-form {
+  padding: 7% 19%;
+  background-image: url(/images/contact-bck.png);
+  background-size: cover;
+  color: #fff;
+}
+
+.submit-button:hover {
+  color: #fd3a73;
+}
+
+input {
+  /* text-decoration: none;
+  border: none;
+  height: 0;
+  width: 0; */
+}
+
 /* Media queries */
 
 @media (max-width: 1070px) {
