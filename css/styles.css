@@ -1,4 +1,4 @@
-/* To comment/uncomment in CSS: ctrl + K and then ctrl + C */
+/* To comment/uncomment in CSS and HTML: ctrl + K and then ctrl + C */
 
 body {
   font-family: 'Montserrat', sans-serif;
@@ -158,6 +158,27 @@ em {
 
 #footer {
   padding: 3% 0 1%;
+}
+
+#footer i {
+  color: black;
+}
+
+#footer i:hover {
+  color: #fd3a73;
+}
+
+/* Contact form */
+
+.contact-form {
+  padding: 7% 19%;
+  background-image: url(/images/contact-bck.png);
+  background-size: cover;
+  color: #fff;
+}
+
+.submit-button:hover {
+  color: #fd3a73;
 }
 
 /* Media queries */
